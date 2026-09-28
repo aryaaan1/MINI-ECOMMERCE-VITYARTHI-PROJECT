@@ -101,7 +101,7 @@ Installation
 1. Install Python
 Install Python 3 or later on your system.
 2. Clone the Repository
-git clone <your-github-repository-link>
+git clone <https://github.com/aryaaan1/MINI-ECOMMERCE-VITYARTHI-PROJECT>
 3. Open the Project Directory
 cd MINI-ECOMMERCE-VITYARTHI-PROJECT
 4. Install Testing Dependency
